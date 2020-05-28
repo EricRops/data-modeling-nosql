@@ -1,0 +1,8 @@
+*.pyc
+*.pdf
+event_datafile_new.csv
+event_datafile_sorted.csv
+
+__pycache__/
+.ipynb_checkpoints/
+info/
