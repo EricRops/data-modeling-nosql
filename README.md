@@ -1,4 +1,5 @@
 # NoSQL Data Modeling with Apache Cassandra
+<img src="images/image_event_datafile_new.jpg">  
 ### Project from Udacity Data Engineering nanodegree
 This project places myself as a Data Engineer for a fictional music streaming company called Sparkify. They have raw CSV metadata but no easy way to query the data.  
 The goal is to design and create a NoSQL database and ETL pipeline optimized to answer **3 specific questions.**
